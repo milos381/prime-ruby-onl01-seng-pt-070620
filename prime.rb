@@ -1,3 +1,3 @@
 def prime?(integer)
- return false if intiger < 2
+ return false if integer < 2
 end
