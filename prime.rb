@@ -4,4 +4,5 @@ def prime?(integer)
   number_range.each do |i|
     return false if integer % i == 0
   end
+  true
 end
