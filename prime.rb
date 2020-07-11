@@ -1,5 +1,3 @@
 def prime?(integer)
-  integer.collect do |num|
-    num.prime?()
-  end
+ return false if intiger < 2
 end
